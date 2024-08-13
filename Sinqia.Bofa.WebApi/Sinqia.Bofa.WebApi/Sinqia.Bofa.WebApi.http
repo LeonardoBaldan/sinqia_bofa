@@ -1,0 +1,6 @@
+@Sinqia.Bofa.WebApi_HostAddress = http://localhost:5201
+
+GET {{Sinqia.Bofa.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
